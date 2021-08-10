@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HRD_0809_영화관 회원 예매 관리_multiple">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="HRD_0809_영화관_회원_예매_관리_multiple"/>
+        <property name="java-output-path" value="/HRD_0809_영화관 회원 예매 관리_multiple/build/classes"/>
+    </wb-module>
+</project-modules>
